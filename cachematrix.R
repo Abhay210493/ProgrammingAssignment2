@@ -1,4 +1,4 @@
-## Comments as per my understanding put.
+## Comments as per my understanding
 
 ## Below function will create a special matrix which is required to be inversed and stored in cache memory.
 ## makeCacheMatrix function creates the matrix while the next function cacheSolve, creates the inverser of required
